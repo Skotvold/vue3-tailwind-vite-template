@@ -1,0 +1,15 @@
+{
+    "stylelint.config": {},
+    "css.validate": false,
+    "less.validate": false,
+    "scss.validate": false,
+    "eslint.options": {
+        "extensions": ["js", "vue"]
+    },
+    "eslint.validate": [
+        "javascript",
+        "vue"
+    ],
+    "eslint.onIgnoredFiles": "warn",
+    "eslint.alwaysShowStatus": true
+}
